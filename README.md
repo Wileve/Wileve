@@ -28,6 +28,12 @@ I am a Senior Machine Learning Engineer with over 8 years of experience in desig
 - Enhancing computer vision systems for real-time object detection and image recognition.
 - Exploring explainable AI (XAI) techniques to build more transparent and trustworthy ML models.
 
+### 📊 GitHub Stats
+
+[![William Eve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wileve&show_icons=true&theme=radical)](https://github.com/Wileve)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wileve&layout=compact&theme=radical)](https://github.com/Wileve)
+
 ### 🌐 Connect with Me
 
 - **LinkedIn**: [William Eve](https://www.linkedin.com/in/williameve)
